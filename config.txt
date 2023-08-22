@@ -1,23 +1,25 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "粘贴自己的",
+"app_id": "wx3e0b54cfc8a553f2",
 # 公众号appSecret
-"app_secret": "粘贴自己的",
+"app_secret": "ead34d6efc6465be30b1562716831c21",
 # 模板消息id
-"template_id": "粘贴自己的",
+"template_id": "_uJdguHqQi6jSKX8LWhFBdG85PwW-4pLe_Hs7DdQiVc ",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["粘贴自己的，不是自己的微信号，而是扫描二维码后，右边的那个很长的一串字符"],
+"user": ["onc6K6PCMJ2tuPQ_NRNjdh7EUzpM", "onc6K6GDBxOUdDUk1sz-o2Hr5O7Y"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "粘贴自己的",
+"weather_key": "19214b8afba74a4f987fd06e7e463e5d",
 # 天行数据apikey
-"tian_api": "粘贴自己的",
+"tian_api": "30bdd2492d181647f0c0648ffdc8f508",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "杭州",
+"region": "双阳区",
 # 生日
-"birthday1": {"name": "山野分享屋", "birthday": "2003-08-03"},
+"birthday1": {"name": "王天怡", "birthday": "2001-12-08"},
+#日2
+"birthday2": {"name" :"曹召军 ", "birthday": "r2000-02-15"},
 # 在一起的日子，格式同上
 "love_date": "2022-06-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
